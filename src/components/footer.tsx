@@ -4,7 +4,7 @@ export function Footer() {
       <div className="container mx-auto px-4 py-8">
         <div className="flex justify-center items-center">
           <p className="text-sm text-muted-foreground">
-            &copy; {new Date().getFullYear()} Made with love by Frameblox
+            &copy; {new Date().getFullYear()} Made with love by sunil ❣️
           </p>
         </div>
       </div>

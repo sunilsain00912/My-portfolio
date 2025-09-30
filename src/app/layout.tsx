@@ -4,7 +4,7 @@ import { ThemeProvider } from '@/components/theme-provider';
 import { Toaster } from '@/components/ui/toaster';
 
 export const metadata: Metadata = {
-  title: 'Dominic - UI/UX & Brand Designer',
+  title: 'Portfolio',
   description: 'A modern personal portfolio website.',
 };
 
