@@ -1,4 +1,4 @@
-const CHUNK_PUBLIC_PATH = "server/app/favicon.ico/route.js"; //
+const CHUNK_PUBLIC_PATH = "server/app/favicon.ico/route.js";
 const runtime = require("../../chunks/[turbopack]_runtime.js");
 runtime.loadChunk("server/chunks/node_modules_next_229848ed._.js");
 runtime.loadChunk("server/chunks/[root-of-the-server]__48b32c58._.js");
