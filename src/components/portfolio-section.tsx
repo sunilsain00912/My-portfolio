@@ -6,7 +6,7 @@ const portfolio = [
     title: 'SaaS Platform Dashboard',
     description: 'A comprehensive dashboard for a B2B SaaS application.',
     tags: ['Next.js', 'Tailwind CSS', 'UI/UX'],
-    githubUrl: '#',
+    githubUrl: 'https://github.com/sunilsain00912',
     liveDemoUrl: '#',
   },
   {
@@ -14,7 +14,7 @@ const portfolio = [
     title: 'E-commerce Mobile App',
     description: 'A modern mobile shopping experience.',
     tags: ['React Native', 'GraphQL', 'Figma'],
-    githubUrl: '#',
+    githubUrl: 'https://github.com/sunilsain00912',
     liveDemoUrl: '#',
   },
   {
@@ -22,7 +22,7 @@ const portfolio = [
     title: 'Corporate Website',
     description: 'A professional website for a leading tech company.',
     tags: ['Webflow', 'CMS', 'Brand Identity'],
-    githubUrl: '#',
+    githubUrl: 'https://github.com/sunilsain00912',
     liveDemoUrl: '#',
   },
   {
@@ -30,7 +30,7 @@ const portfolio = [
     title: 'Data Visualization Tool',
     description: 'An intuitive tool for visualizing complex data sets.',
     tags: ['React', 'D3.js', 'Data viz'],
-    githubUrl: '#',
+    githubUrl: 'https://github.com/sunilsain00912',
     liveDemoUrl: '#',
   },
 ];
